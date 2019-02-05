@@ -4,7 +4,7 @@ Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Archit
 
 ## Demo
 
-[![Self Driving Car Project](Image/Track.jpg)](https://youtu.be/oCj7xlMBaTs)
+[![Self Driving Car Project](https://github.com/singhbir/SELFDRIVING_CAR/blob/master/selfdriving.PNG)
 
 ## Dependencies
 
